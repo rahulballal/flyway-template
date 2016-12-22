@@ -1,0 +1,6 @@
+# JIRA TICKET: FKL-123 
+# SHORT DESC: this should work 
+# FULL DESCRIPTION: wataaaaaaaaaa 
+# ADD SQL BELOW 
+
+SHOW TABLES;
